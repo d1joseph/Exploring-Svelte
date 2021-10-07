@@ -1,2 +1,2 @@
 # Exploring-Svelte
-I wanted to try Svelte for frontend stuff. This repo contains a few example projects with their codebase.
+I wanted to learn a frontend library that is not maintained by a large company. This repo is collection of UIs built with Svelte.
